@@ -1,0 +1,33 @@
+body
+  {
+    background-image:url("https://c8.alamy.com/comp/2E03K66/light-green-vector-smart-blurred-pattern-abstract-green-illustration-gradient-blur-design-design-for-landing-pages-2E03K66.jpg")
+    
+  }
+  h1
+  {
+    color: black; 
+    font-size: 33;
+  } 
+
+
+h5
+{
+ color:ghostwhite;
+ font-size: 20;
+}
+
+h1
+ {
+   font-family: "Hammersmith One"
+ }
+
+.flex-container
+{
+  display: flex;
+flex-direction: row
+}
+
+.flex-container > div
+ {
+  flex-direction: row
+ }
